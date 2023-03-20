@@ -7,7 +7,7 @@ first_name: Peng
 last_name: Yuchong
 
 # Status emoji
-status: Thinking
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -46,22 +46,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/#pengych2022@shanghaitech.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.zhihu.com/people/peng-yu-chong-72
+    label: Follow me on Zhihu
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack ；graduation-cap form 'fas' icon_pack
+    icon_pack: ai
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/PengYuchong
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.cn/incareer/in/ACoAADseOXQBr6fEYoRncWxrDuBAW91Kc2xjAKk
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
