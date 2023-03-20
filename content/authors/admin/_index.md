@@ -1,47 +1,43 @@
 ---
 # Display name
-title: Alice Wu 彭毓崇
+title: Peng Yuchong 彭毓崇
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Peng
+last_name: Yuchong
 
 # Status emoji
-status:
+status: Thinking
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Power Electronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghaitech University
+    url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research includes renewable energy systems, multiport converters, and battery management systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multiport converters
+  - Renewable energy systems
+  - Battery management systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Electrical Engineering,2022 - Now
+      institution: Shanghaitech University
+    - course: B.S. in Rail Transit Signal and Control,2018-2022
+      institution: Central South University
+      url: https://www.csu.edu.cn/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
