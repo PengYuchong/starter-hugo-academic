@@ -81,5 +81,5 @@ highlight_name: true
 ---
 
  
-Peng Yuchong(彭毓崇） is a Graduate student of power electronics at Power Electronics And Renewable energies Laboratory (PEARL), Shanghaitech University. His research supervisor is Prof. Haoyu Wang. His research interests include renewable energy systems, multiport converters, and battery management systems.(The following events are templates which need to be updating……)
+Peng Yuchong (彭毓崇） is a Graduate student of power electronics at Power Electronics And Renewable energies Laboratory (PEARL), Shanghaitech University. His research supervisor is Prof. Haoyu Wang. His research interests include renewable energy systems, multiport converters, and battery management systems.(The following events are templates which need to be updating……)
 {style="text-align: justify;"}
