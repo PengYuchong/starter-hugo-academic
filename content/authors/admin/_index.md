@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peng Yuchong 彭毓崇
+title: Peng Yuchong （彭毓崇）
 
 # Full name (for SEO)
 first_name: Peng
