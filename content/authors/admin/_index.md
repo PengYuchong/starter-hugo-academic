@@ -14,12 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Power Electronics
+role: Graduate student of Power Electronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghaitech University
     url: https://www.shanghaitech.edu.cn/
+  - name: Power Electronics And Renewable energies Laboratory (PEARL)
+    url: https://pearl.shanghaitech.edu.cn/    
+    
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research includes renewable energy systems, multiport converters, and battery management systems.
@@ -77,5 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ 
+Peng Yuchong(彭毓崇） is a Graduate student of power electronics at Power Electronics And Renewable energies Laboratory (PEARL), Shanghaitech University. His research supervisor is Prof. Haoyu Wang. His research interests include renewable energy systems, multiport converters, and battery management systems.(The following events are updating……)
 {style="text-align: justify;"}
